@@ -18,6 +18,17 @@ The increased fare of Rural and Suburban neighborhoods are in direct relation to
 There is potential in both Suburban and Rural markets, but Rural will be a more difficult market to grow.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95504135/152701805-6bb50a97-ed6f-4978-aa0a-2982aaa4e826.png)
+The figure above displays data grouped by weeks providing trends of total fares by city type.
+The chart displays when peaks occur that are shared between all three city types, these peaks occuring in late February and early March.
+Compared to the previous figure, we can see that Urban neighborhoods generate the highest revenue and Rural generates the lowest.
 
 
 ## Summary
+It is clear that Urban cities use ridesharing significantly more than Suburban and especially Rural cities, total rides eclipses the total rides and drivers, as well as the average fare per ride and per driver being significantly higher for Rural cities. This could be seen as a discouraging factor for potential Pyber customers in using the ridesharing app. Perhaps a possible solution would be to temporarily decrease the price of fares or offer a promotion in rural neighborhoods in order to create a customer base and show them the potential value in using this service.
+
+When comparing the average fare per driver in Rural and Urban cities, Urban drivers get paid significantly less than Rural drivers. Though there are significantly more drivers in Urban cities, the low wages that they earn could be seen as discouraging for potential drivers. Since there are a large amount of customers who use Pyber as their main method of transportation, increasing the fare by a certain percentage in order to create a higher average fare per driver could increase more drivers to drive for Pyber thus increasing access to Urban customers even further and increasing total fare revenue.
+
+Suburban cities sit directly in the middle of Urban and Rural cities and has seen a stable trend with an increase at the end of the 'Total Fare by City Type' figure. Action does not necessarily need to be taken on this city type but perhaps the budget can be reallotted from Suburban to help increase ridership in Rural areas and increase wages for drivers in Urban neighborhoods.
+
+
+ 
