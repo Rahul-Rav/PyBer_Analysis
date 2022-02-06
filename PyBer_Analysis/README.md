@@ -19,7 +19,7 @@ There is potential in both Suburban and Rural markets, but Rural will be a more 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95504135/152701805-6bb50a97-ed6f-4978-aa0a-2982aaa4e826.png)
 The figure above displays data grouped by weeks providing trends of total fares by city type.
-The chart displays when peaks occur that are shared between all three city types, these peaks occuring in late February and early March.
+The chart displays when peaks occur that are shared between all three city types, these peaks occurring in late February and early March.
 Compared to the previous figure, we can see that Urban neighborhoods generate the highest revenue and Rural generates the lowest.
 
 
